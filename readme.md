@@ -1,5 +1,9 @@
 # Проект promo24pro
 
+## Contributors
+# Focus-web-dev
+# Umorph
+
 ## Установка
 
 Для запуска локального сервера на компьютере должен быть установлен [Node.js](https://nodejs.org/) 
