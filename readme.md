@@ -1,8 +1,8 @@
 # Проект promo24pro
 
 ## Contributors
-# Focus-web-dev
-# Umorph
+* Focus-web-dev
+* Umorph
 
 ## Установка
 
